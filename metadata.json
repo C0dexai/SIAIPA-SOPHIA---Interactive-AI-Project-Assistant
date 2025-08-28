@@ -1,0 +1,6 @@
+{
+  "name": "SIAIPA-SOPHIA - Interactive AI Project Assistant",
+  "description": "An interactive AI assistant, SOPHIA, that provides detailed guidance and answers questions on software project kickoff workflows, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
